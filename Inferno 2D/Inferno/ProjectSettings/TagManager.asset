@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Bullet
+  - Enemy
+  - Wall
+  - Door2Bottom
+  - EnemyTrigger
+  - Spawner
+  - Spawner1
+  - DoorSpawner
+  - TriggerRoom2
+  - TriggerRoom3
+  - TriggerRoom4
+  - TriggerRoom5
+  - TriggerRoom6
+  - TriggerRoom7
+  - TriggerRoom8
+  - TriggerRoom9
+  - TriggerRoom10
+  - TriggerRoom12
+  - TriggerRoom11
+  - Fire
+  - HealthPickUp
+  - Play
+  - Controls
+  - Quit
+  - EndBossSpawner
+  - EnemyBullet
+  - EndBossSheild
+  - RightCol
+  - LeftCol
+  - TopCol
+  - BottomCol
+  - Boss
+  - BossDamage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - other
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 856953767
+    locked: 0
+  - name: Room Tile
+    uniqueID: 282903295
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Above sprite
+    uniqueID: 1860464685
+    locked: 0
