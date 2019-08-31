@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SMGAmmo
+  - SMGBulletSpawn
+  - SMG
+  - SMGArms
+  - Pistol
+  - PistolArms
+  - ShotgunArms
+  - PistolBulletSpawn
+  - Shotgun
+  - AidArms
+  - PistolAmmo
+  - ShotgunAmmo
+  - FirstAid
+  - MoonTriggerForSpawn
+  - MoonTriggerStopSpawn
+  - MoonObject
+  - Sun
+  - Ground
+  - VampireBlood
+  - VampHead
+  - VampHands
+  - VampBody
+  - Bullet
+  - VampArms
+  - VampLegs
+  - Spawner
+  - SMGMuzzleFlash
+  - PistolMuzzleFlash
+  - ShotgunMuzzelFlash
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - pels
+  - VampHitBoxes
+  - Vampire
+  - Guns
+  - Camera2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
